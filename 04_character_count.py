@@ -1,0 +1,5 @@
+find_word = input("Please enter the word to search for: ")
+sentence = input("Please enter the sentence to be searched through: ")
+edited_sentence = sentence.lower()
+count = edited_sentence.count(find_word.lower())
+print(f"The sentence you entered has {count} instances of '{find_word}'")
