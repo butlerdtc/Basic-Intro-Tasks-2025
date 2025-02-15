@@ -25,7 +25,6 @@ def bread_choice(options, title):
             continue
 
 
-
 bread = [["Wholemeal", 1.00], ["White", 0.80], ["Cheesy White", 1.20],
          ["Gluten Free", 1.40]]
 meat = [["Chicken", 2.69], ["Beef", 3.00], ["Salami", 4.00], ["Vegan Slice",
