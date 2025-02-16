@@ -32,3 +32,4 @@ meat = [["Chicken", 2.69], ["Beef", 3.00], ["Salami", 4.00], ["Vegan Slice",
 garnish = [["Onion", 1.69], ["Tomato", 1.00], ["Lettuce", 2.00],
            ["Cheese", 2.50]]
 bread_choice(bread, "Bread")
+print("Exit")
